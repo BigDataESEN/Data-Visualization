@@ -13,10 +13,12 @@
 
 * Placer le dossier téléchargé sous le répertoire de votre serveur web.
   
-* Lancer le navigateur et taper l'URL suivante : 
+* Lancer le navigateur et taper cette URL : 
   ```
   127.0.0.1/DataVisualization
   ```
+
+  Le résultat affiché sur l'écran est le suivant : 
 
   ![screenshot](https://www.nassimbahri.ovh/docs/bigdata/documentations/visualization/c1.png)
 
